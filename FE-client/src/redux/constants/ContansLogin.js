@@ -1,0 +1,49 @@
+// LOGIN , REGITTER, LOGIN GOOOGLE , REQUET
+export const FETCH_LOGIN_REQEST = "FETCH_LOGIN_REQEST";
+export const FETCH_LOGIN_SUCCESS = "FETCH_LOGIN_SUCCESS ";
+export const FETCH_LOGIN_ERROR = "FETCH_LOGIN_ERROR";
+export const FETCH_LOGIN_GOOGLE = "FETCH_LOGIN_GOOGLE";
+
+// regitter
+export const FETCH_REGISTER_SUCCESS = "FETCH_REGISTER_SUCCESS";
+// chanPassword
+export const CHANGE_PASSWORD_SUCCSES = "CHANGE_PASSWORD_SUCCSES";
+export const CHANGE_PASSWORD_ERROR = "CHANGE_PASSWORD_ERROR";
+// changePassWordStaff
+export const PASSWORD_STAFF_SUCCESS = "PASSWORD_STAFF_SUCCESS";
+export const PASSWORD_STAFF_ERROR = "PASSWORD_STAFF_ERROR";
+
+// ResetPassword
+export const RESET_PASSWORD = "RESET_PASSWORD";
+
+// ResetPassword ChanPassword
+export const CHANGE_PASSWORD_RESET = "CHANGE_PASSWORD_RESET";
+
+// InforUser
+export const CHANGE_INFOR_USER_SUCCESS = "CHANGE_INFOR_USER_SUCCESS";
+export const CHANGE_INFOR_USER_ERROR = "CHANGE_INFOR_USER_ERROR"
+// InfoStaff
+export const CHANGE_INFOR_STAFF_SUCCESS = "CHANGE_INFOR_STAFF_SUCCESS";
+export const CHANGE_INFOR_STAFF_ERROR = "CHANGE_INFOR_STAFF_ERROR";
+
+// feedback
+export const FEEDBACK = "FEEDBACK";
+export const GET_FEEDBACK = "GET_FEEDBACK";
+export const GET_FEEDBACK_DETAIL = "GET_FEEDBACK_DETAIL";
+export const DISCOUNT = "ADD_DISCOUNT";
+export const BOOKING = "ADD_BOOKING";
+// historyBookStaff
+export const HISTORY_BOOK_STAFF = "HISTORY_BOOK_STAFF";
+// historyInfo
+export const HISTORY_BOOK_INFO = "HISTORY_BOOK_INFO";
+export const HISTORY_BILL_DETAIL = "HISTORY_BILL_DETAIL";
+// Notification
+export const NOTIFICATION = "NOTIFICATION";
+// Notification one
+export const NOTIFICATION_ONE = "NOTIFICATION_ONE";
+// Notidication All
+export const NOTIFICATION_ALL = "NOTIFICATION_ALL";
+
+// Cancel Bill
+export const Cancel_Bill = "Cancel_Bill";
+
